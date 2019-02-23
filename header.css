@@ -27,3 +27,13 @@ c {
   text-decoration: none;
   margin: 15px;
 }
+
+d {
+  background-color: #252c41;
+  color: #fff;
+  float: right;
+  font-family: "Segoe UI", "Roboto", sans-serif;
+  font-size: 21px;
+  margin: 0 115px;
+  padding: 21px 61px;
+}
